@@ -1,0 +1,101 @@
+* {margin: 0px;
+  padding: 0px;}
+body {
+  background-color: black;
+  max-width: fit-content;
+  margin-left: 10px;}
+/* head start */
+  .page {
+  margin: 50px;
+  background-color:silver;
+  height: auto;}
+.head {
+  width: auto;
+  height: 118px;
+  background-image: url(../images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;}
+.social {
+  float: right;
+  padding-left: 30px;
+  background-color: black;
+cursor: pointer;}
+.f {opacity: 0.5;}
+.f:hover {opacity: 1;}
+.t{ opacity: 0.5;}
+.t:hover {opacity: 1;}
+.r {opacity: 0.5;}
+.r:hover {opacity: 1;}
+.g {opacity: 0.5;}
+.g:hover {opacity: 1;}
+.i{opacity: 0.5;;}
+.i:hover{opacity: 1;}
+.social li {
+  display: inline-block;
+  margin-top: 15px;}
+.clear {clear: both;}
+/* head end */
+/* Start NAV */
+.navbar { width: auto;
+  color: white;
+  background-color: black;}
+
+.navbar li {display: inline-block;
+  padding: 20px;}
+.navbar li:hover {background-color:rgb(68, 187, 235);}
+a{text-decoration: none; color: white;}
+.home{background-color: skyblue;}
+
+.topphoto {height: 400px;
+  background-color: silver}
+
+.topphoto img { width: 99%;
+  height: 100%; margin: 4px;}
+  /* End  NAV */
+  h2 {margin: 20px 0px 0px 50px;
+    color: rgb(83, 146, 175); text-align: left;}
+
+.left_P {
+  width: 500px;
+  height: 300px;
+  float: left;}
+  .left_P p {margin-left: 20px;}
+  .left_P ul {margin: 10px 80px;}
+  .left_P {width: 945px;height: auto;}
+
+  .line_left{width: 80%; color: silver; margin-left: 20px;}
+  #img1 {margin: 20px 90px;
+    float: left;
+    outline: solid 2px white;
+    outline-offset: 2px;}
+  #img2 {float: left;
+    margin-top: 20px;
+    outline: solid 2px white;
+    outline-offset: 2px;}
+
+  /* .right_paragraph */
+.right_parag {width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 12px;}
+h4 {color: orangered;
+}
+#date {color: rgb(19, 114, 158);
+}
+
+.p2 {margin-top: 20px;
+}
+.line_right1{ width: 100%; color: silver;}
+.clear{both}
+/* Footer */
+
+.line_footer{ width:90%; color:silver; margin: 20px;}
+
+
+ .footer {
+  width: 100%;
+  height: 100%;}
+.footer p {
+  text-align: center;
+  padding-bottom: 20px;}
